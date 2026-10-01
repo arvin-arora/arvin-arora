@@ -1,14 +1,9 @@
 # 💫 About Me:
-1st Year CSE & AI Student at **Scaler School of Technology, Bengaluru** and pursuing an **Online BSc in Computer Science from BITS Pilani**.<br><br>
-
-Passionate about **building websites, developing applications, problem-solving, DSA, and exploring new technologies**.<br><br>
-
-Currently learning **Java, C++, Python, HTML, CSS, JavaScript, and Git/GitHub**.<br><br>
-
-I enjoy turning ideas into projects, experimenting with new technologies, and continuously improving my **coding and problem-solving skills**.<br><br>
-
-I’m particularly interested in **Web Development, Software Development, AI/ML, and Competitive Programming**.<br><br>
-
+1st Year CSE & AI Student at **Scaler School of Technology, Bengaluru** and pursuing an **Online BSc in Computer Science from BITS Pilani**.<br>
+Passionate about **building websites, developing applications, problem-solving, DSA, and exploring new technologies**.<br>
+Currently learning **Java, C++, Python, HTML, CSS, JavaScript, and Git/GitHub**.<br>
+I enjoy turning ideas into projects, experimenting with new technologies, and continuously improving my **coding and problem-solving skills**.<br>
+I’m particularly interested in **Web Development, Software Development, AI/ML, and Competitive Programming**.<br>
 Always learning. Always building. 🚀
 
 
